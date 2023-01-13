@@ -84,6 +84,7 @@ const handleSubmit = async (e) => {
   // messageDiv.innerHTML = "..."
   loader(messageDiv)
 
+  // getting the response from the both
   const response = await fetch('https://codex-im0y.onrender.com/', {
     method: 'POST',
     headers: {
