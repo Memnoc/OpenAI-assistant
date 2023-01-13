@@ -71,5 +71,5 @@ If you want to contact me you can reach me at <matteostara@smartdroidesign.com>.
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [MIT](https://github.com/Memnoc/OpenAI-assistant/blob/main/README.md).
+This project uses the following license: [MIT](https://github.com/Memnoc/OpenAI-assistant/blob/main/LICENSE.md).
 
